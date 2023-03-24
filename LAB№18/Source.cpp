@@ -19,7 +19,6 @@ int main()
 
 	int a, b, c;
 	
-	
 	printf("¬ведите 3 числа:\n");
 	scanf_s("%d", &a);
 	scanf_s("%d", &b);
